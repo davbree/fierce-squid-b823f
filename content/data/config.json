@@ -19,12 +19,6 @@
                 "type": "Button"
             },
             {
-                "type": "Link",
-                "label": "Home",
-                "url": "/",
-                "altText": ""
-            },
-            {
                 "label": "Learn more",
                 "altText": "Learn more",
                 "url": "/",
