@@ -18,7 +18,7 @@ sections:
         elementId: hero-main-button
     feature:
       type: ImageBlock
-      url: /images/Lagoon Nebula.png
+      url: /images/La goon Nec bula.png
       altText: Image alt text
       caption: Image caption
     styles:
